@@ -40,7 +40,7 @@ supporting reasons remain it's `argument`, if only the bare claim remains it's `
 
 ## 3. Data
 
-- **Source:** real public comments collected from six high-traffic r/askphilosophy threads.
+- **Source:** real public comments collected from dozens of r/askphilosophy threads.
 - **Size:** 222 labeled comments in a single CSV (`dataset.csv`), columns `text, label, notes`.
 - **Split:** 70 / 15 / 15 train/validation/test, handled automatically by the notebook
   (test set = 34 comments).
